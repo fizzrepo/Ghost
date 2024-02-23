@@ -210,7 +210,7 @@
     "path-match": "1.2.4",
     "probe-image-size": "7.2.3",
     "rss": "1.2.2",
-    "sanitize-html": "2.10.0",
+    "sanitize-html": "2.12.1",
     "semver": "7.5.1",
     "socket.io": "4.6.1",
     "stoppable": "1.1.0",
